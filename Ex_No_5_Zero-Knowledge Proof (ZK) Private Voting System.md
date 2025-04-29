@@ -65,6 +65,13 @@ When revealed, the contract verifies correctness but keeps votes anonymous.
 
 Final result is publicly verifiable without exposing individual votes.
 
+![5(1)](https://github.com/user-attachments/assets/61d6c665-e301-4b47-a11d-3e48fc244e58)
+
+![5(2)](https://github.com/user-attachments/assets/331f5880-a4ad-40ee-9eab-72ba8f9e9641)
+
+![5(3)](https://github.com/user-attachments/assets/310f5710-1f72-4ab5-88be-8baee017d9e0)
+
+![5(4)](https://github.com/user-attachments/assets/74c43cd0-0228-41e4-bfac-4c37a611c8fb)
 
 
 # High-Level Overview:
